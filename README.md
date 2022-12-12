@@ -1,15 +1,19 @@
 ## Hi there 👋, I'm Kevin
 
-I'm a student studying Mechanical Engineering and Computer Science at Drexel University. I'm interested in tech and like solving puzzles.
+I'm a student studying Mechanical Engineering at Drexel University. I'm interested in tech and like solving puzzles.
 
 ### 🔭 I’m currently working on ...
-- Improving my skills and problem solving approach
-- Advent of Code 2021
-- Adding content to my website
+- Improving my skills...
+- Advent of Code 2022
+- TryHackMe Advent of Cyber 4
+- Buildspace Projects! @buildspace.so
 
 ### 🌱 I’m currently learning ...
-- How to use convolutional neural networks (CNN) to identify thermodynamic processes
-- To build smart contracts using Solidity and Python
+- Hanabi. (H-Group Conventions)
+- How to enjoy life
+- Programming stuff
+- Networking and cybersecurity stuff
 
 ### 📫 How to reach me:
 - LinkedIn @kevinliudrexel
+- Twitter @kevvrites
