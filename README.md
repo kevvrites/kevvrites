@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Kevin (aka kevvrites)
-# Last Updated Jun 01 2023
+# Hi there 👋, I'm Kevin (aka kevvrites)
+### Last Updated Jun 01 2023
 
 I'm a graduated mechanical engineering major from Drexel University.
 
