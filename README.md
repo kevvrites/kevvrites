@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Kevin (aka kevvrites)
-### Last Updated Jun 01 2023
+### Last Updated Aug 05 2023
 
-I'm a graduated mechanical engineering major from Drexel University.
+I'm a graduated mechanical engineering major from Drexel University. Currently open to work - all positions welcome, preferably based in NYC or remote. Currently working on stuff in buildspace s4!
 
 ### About me ...
 - Eagle Scout 254 from Troop 1 Flushing, NY
@@ -16,13 +16,12 @@ I'm a graduated mechanical engineering major from Drexel University.
 - Sharing my thoughts with the world
 
 ### 🌱 I’m currently learning ...
-- Hanabi. (H-Group Conventions)
 - How to enjoy life
-- Game development
+- Website development (NextJS + threeJS)
 
 ### Certifications ...
-- CompTIA A+ (Basic IT stuff, troubleshooting, tech specs, etc)
-- Lean Six Sigma Yellow Belt (no waste mentality)
+- CompTIA A+
+- Lean Six Sigma Yellow Belt
 
 ### 📫 How to reach me:
 - Twitter https://twitter.com/kevvrites
