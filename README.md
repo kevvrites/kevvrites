@@ -3,18 +3,18 @@
 
 I'm a graduated mechanical engineering major from Drexel University. I'm currently working at [Brookhaven National Laboratory](https://www.bnl.gov/world/).
 
-### About me ...
+### About me
 - Eagle Scout 254 from Troop 1 Flushing, NY
 - Brain Cancer Survivor (Astrocytoma Grade 3, diagnosed Feb 2022)
 - buildspace nights and weekends s2, s3, s4 alumni
 
-### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on
 - Creating YouTube content (mostly thinking out loud)
 - Getting experience (mechanical engineering, CS, IT, computers)
 - Renewing CompTIA A+ by passing Network+ before Sep. 2024
 - Becoming a licensed Public Notary of NY State
 
-### Certifications ...
+### Certifications
 - CompTIA A+
 - Lean Six Sigma Yellow Belt
 
