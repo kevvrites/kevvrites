@@ -16,9 +16,3 @@ I'm a graduated mechanical engineering major from Drexel University. I'm used to
 ### Certifications
 - CompTIA A+, Network+
 - Licensed Public Notary of NYS
-
-### 📫 How to reach me:
-- [Twitter] (https://twitter.com/kevvrites)
-- [YouTube] (https://youtube.com/@kevvrites)
-- [LinkedIn] (https://linkedin.com/in/kevinliudrexel)
-- [Substack] (https://kevvrites.substack.com)
